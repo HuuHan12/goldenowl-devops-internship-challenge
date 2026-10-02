@@ -6,7 +6,7 @@
 [![IaC](https://img.shields.io/badge/IaC-Terraform-blueviolet)](https://www.terraform.io/)
 [![SSL](https://img.shields.io/badge/HTTPS-Cloudflare%20Edge%20SSL-blue)](https://cloudflare.com/)
 
-> **Candidate:** Nguyen Huu Han  
+> **Candidate:** Doan Huu Han  
 > **Repository:** [https://github.com/HuuHan12/goldenowl-devops-internship-challenge](https://github.com/HuuHan12/goldenowl-devops-internship-challenge)  
 > **Live Deployment URL:** [https://terraform.rene-devops.online](https://terraform.rene-devops.online)  
 
