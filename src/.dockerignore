@@ -1,8 +1,16 @@
 **/node_modules/
 **/dist
 .git
+.gitignore
 npm-debug.log
 .coverage
 .coverage.*
 .env
 .aws
+tests/
+.eslintrc.json
+.prettierrc.json
+*.md
+.DS_Store
+Dockerfile*
+docker-compose*.yml
